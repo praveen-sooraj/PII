@@ -1,0 +1,785 @@
+[{
+    "violation_id ": "325674 c0 - 4 a49 - 4364 - 8 b84 - 7 a44279734df ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Admission no ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "9 afb72c4 - 683 a - 471 c - 866 e - c142c8e4db8f ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Patient id ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "26 abfbad - b96d - 4925 - ac2c - 4914 c4824671 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Medical Record Numbers ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "52 d44a67 - ab2c - 485 f - 806 b - 71265877 aa1f ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Health Insurance Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "64 b6a5b2 - 1915 - 4 bf8 - a4cf - e56b887963a6 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Biometric Identifiers ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "a8d937e9 - 0014 - 4371 - 966 c - f2f8f2a52974 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Clinical Data ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "b91fab7e - 4 aa6 - 4 a00 - ba27 - 759 c576f7415 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Prescription Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "7e9 b242c - 781 d - 40e7 - ab64 - 7 d0ae064da55 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Doctor and Healthcare Provider Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "0b1 35254 - c936 - 418 b - b6a0 - d505c8b3bd07 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Genetic Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "fe907c2e - a322 - 4 b13 - 85 fd - f8cc2067bb1f ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Treatment and Procedure Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "b5821d98 - 5022 - 4693 - ab65 - f2a31efe8366 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Emergency Contact Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "7098 dad1 - 9806 - 45 d0 - be22 - ec2896025b9a ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Photographs and Imaging Results ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "af58eedc - 5179 - 4 bfd - 8469 - 43 f7d8cf405d ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Billing Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "47680 d92 - 0 a5a - 485 a - ab7d - 4 af9e7c51156 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Appointment Information ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "209352 c5 - 8 b8f - 4245 - b862 - af18adef8c62 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "Communication Records ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "863 d79a5 - c028 - 4765 - 9554 - e85900f6d118 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "medication ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "81 bb1c80 - 8 b82 - 4522 - 8 d79 - f06809f924c8 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "medical condition ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "6 ebac2da - 114e-4614 - 9 cde - d2d386017def ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "blood type ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "7 fa600d6 - 2885 - 4775 - 900 b - 426504 d4575c ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "birth certificate number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "5322 cfa5 - 287 f - 471 d - 80 f6 - b1f2319ea075 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "patient id number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "7 cbfd510 - f0a8 - 4 a5a - aa79 - dbf6cc54f17a ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "health record number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "2 fe6fd23 - 2e62 - 4361 - bb43 - def8d557cf8a ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "doctors license number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "2 dedf8ba - 5 aee - 409 b - 84 b4 - 246 d479c7e7b ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "medical device serial number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "c029b5de - a420 - 4 db9 - 9295 - b0d4fe065700 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "medical facility registration number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "fe2ad8d8 - fe8b - 491 c - 836 d - 48 b1f8201877 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "health insurance policy number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "d635a0c3 - 1 cf5 - 4737 - b664 - 5 d996788c5e2 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "lab test number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "6062 da70 - 1 ff2 - 4e02 - 9e53 - 0b 3 d43ba07bd ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "prescription number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "f1e8c0b3 - 0651 - 48 b3 - a13d - 166861207 b36 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "health card number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "6 bdc6ef2 - d9ba - 4923 - 879 f - 97 fb038a632b ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "clinical trial identifier ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "c5f3b109 - d4d6 - 4 da7 - adbc - d1fe2517f695 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "healthcare provider identifier ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "04295027 - c381 - 4 aa3 - b029 - 9 d8ddc70b340 ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "treatment plan number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "14 f25b21 - 8 b03 - 4845 - 9459 - 8 d7f3d5f95cb ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "full name ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "b48794c8 - 9420 - 4 d2f - 9740 - 34 b23802ce88 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Address ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "ec86ac11 - 9438 - 4263 - 90 b6 - 38 acc56dcce1 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Email address ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "ee0d6628 - 829 c - 4 f43 - 9 c94 - a8acc6885f5a ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Phone number ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "255 d228c - 26 cd - 4 dcb - 89 ff - da8559a83cfe ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "IP address ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "2 b640a8e - 120 c - 4833 - b679 - 154 f650f5bdd ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Location data ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "56 f180ee - 0e96 - 4 f45 - b2cf - 582 b18874f91 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Online identifier ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "b750acfb - b5c0 - 4101 - bfb4 - b1c8c1d9a409 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Biometric data ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "74087564 - 2833 - 4465 - 9529 - 2185 da0894e4 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Health data ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "9649 c94d - 290e-46 fa - ba52 - 4 bc712b7ab0f ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Genetic data ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "61 bd06c1 - 524e-4 b03 - 919 f - dcdaa062d5db ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Political opinions ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "093 b00e1 - 40 af - 4 ed1 - 89 fc - 0 abd5efd4328 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Sexual orientation ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "4 a6b82bd - a4e1 - 45 d3 - a510 - 1e732 c469472 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Racial or ethnic origin ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "a6bb1eea - ef41 - 48 d1 - aff1 - b6279220d435 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Religious or philosophical beliefs ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "510 b33bb - 93 b0 - 430 a - 9 ee4 - 54 a3e328dcd1 ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "Trade union membership ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "15 d4960c - 8069 - 4 f72 - 9208 - 48e93 bb3e8ed ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Primary Account Number(PAN)",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "f7db3051 - 7416 - 4546 - 96 da - a2399a9ea714 ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Cardholder Name ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "0 c01e473 - 2 dec - 4 a8b - becb - 91 b0f2f2657a ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Expiration Date ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "780663 f9 - 4009 - 4461 - bcf8 - 2 c350d4401fc ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Service Code ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "fb9aeb79 - 828 f - 40 cf - a71d - b1b73aa0de54 ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Full Magnetic Stripe Data ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "394896 c5 - b24b - 42 a2 - bdfa - d17175b8d504 ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "CVC / CVV / CV2 / CID ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": true,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "a5fa19d8 - 401 a - 4 a99 - 821 c - b41910cc44e5 ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "PIN / PIN Block ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": true,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "7 ff4e225 - b22f - 4 aa4 - bfd2 - b9cb89338e34 ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Sensitive Authentication Data(SAD)",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "4 eca01ff - eddf - 400 a - 8 a8c - 750715356 f1d ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Cardholder Data ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "a1016785 - cb1f - 45 c5 - bacd - efcf380afbb7 ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Cardholder Personal Identification Number(PIN)",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "2 c235112 - 19 b1 - 48 dc - 9 cf4 - 7 d7ee3af552a ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Card Validation Code(CVC, CVV, CV2, CID)",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "b00d737f - 6 a9d - 46 ae - 839 c - b42c24259b6f ",
+    "standardkey_id ": "a8f9dc37 - f8ca - 4 bd7 - 99 a4 - c5aa6b366be4 ",
+    "name ": "Magnetic Stripe Data ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "8086 b704365d451283678af1374a645e ",
+    "standardkey_id ": "da51ae7f - 3e02 - 43 ad - 905 f - 95965 ee8149c ",
+    "name ": "ddd ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": true,
+    "is_inbuild ": false
+}, {
+    "violation_id ": "fa7be6d41f1e46e687cd2c9b1001bf8a ",
+    "standardkey_id ": "d8463698 - 162e-43 e2 - 9602 - beaba71945f3 ",
+    "name ": "cvcvcv ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": true,
+    "is_inbuild ": false
+}, {
+    "violation_id ": "73 df4768 - 5 a7f - 4294 - 9365 - 05 b821200820 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "full name ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "c0a627d4 - cb7a - 4 a33 - 9 b5d - 23 cb184c7b55 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "age ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "895 d5a39 - 085 c - 43 f6 - ae70 - 0 da12aeaa565 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "address ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "9 d1b98ad - 7 b22 - 4 ba0 - a718 - 8 b912db38a2e ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "social Security Number ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "60088224 - f1c5 - 431 f - 9957 - 5 d59403d6e38 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "classified Level ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "3820 c167 - 185 b - 40 b0 - 91 fa - 32e03 aebe90c ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "security Clearance ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "ae5e8b42 - 222e-4 afc - 8 b6d - 3467 a7642af0 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "agency Code ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "eb517734 - 65 ca - 4288 - a18e - fabdfb4efd70 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "classification Level ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "08 ae04db - 019e-4 d12 - 8351 - 34 ed52971476 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "compartment Code ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "ba85946e - a05a - 4 afe - b872 - 5 dec89ed08b5 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "access Control ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "105e3 f4b - 9195 - 4141 - a874 - 4 d99f2246dab ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "taxpayer Identification Number ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "655894 ae - f5d9 - 4279 - 8096 - de755e3d0240 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "income Amount ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "5 fab20b6 - 46 d8 - 40 bc - 97e1 - 6 c70d79cabb6 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "deductions ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "5 db8e148 - aec0 - 4973 - a859 - 8164 a4091c30 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "medical Record Number ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "ebfb509c - 5 a9d - 47 ca - 8 d23 - 2 ba4705109ae ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "patient Name ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "c1650b82 - ca6b - 4600 - 86 a3 - 70 cc1ac5ce77 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "diagnosis Code ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "026683 d9 - 3 fdc - 493 e - a239 - be42744b5ee9 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "bank Account Number ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "ce5309e3 - d360 - 42 fa - 92 a3 - c81e2538e5bf ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "credit Card Number ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "f532a1e4 - e3bf - 486 b - a0b6 - 4e31 de331fa3 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "financial Statement ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "3 bdefa41 - 3493 - 4918 - b1eb - 5 b1821debd4e ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "trade Secret ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "0 a912b31 - f3f1 - 4 ca8 - be2c - a3cec6ba6869 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "patent Number ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "17 b3ea33 - b302 - 40 f6 - bdff - 6 c23ce395b95 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "proprietary Algorithm ",
+    "is_masked ": false,
+    "is_encrypted ": true,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "a663e407 - fc6e - 4e56 - 82 d1 - 2956 fabaa9a5 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "infrastructure Asset Id ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "3 ff73bb2 - 240 c - 45 f7 - b7a7 - 75196 b8d5cc5 ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "system Configuration ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "2e5468 cd - 55 a4 - 40 a3 - 8 b28 - 4538 b211fc2d ",
+    "standardkey_id ": "b8f9dc37 - f8ca - 4 bd00 - 99 a4 - c5aa6b366be4 ",
+    "name ": "emergency Procedures ",
+    "is_masked ": false,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "0393 ffba - 70e7 - 4821 - b5b2 - 27e026359398 ",
+    "standardkey_id ": "773 ae328 - 8912 - 4475 - a2db - f8cc9c71f6c5 ",
+    "name ": "Full Name ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "1 f7f4f9d - 3 c9c - 4 a5b - b454 - fc85114799fb ",
+    "standardkey_id ": "773 ae328 - 8912 - 4475 - a2db - f8cc9c71f6c5 ",
+    "name ": "National Identification Number(NID)",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "3 be9fb66 - d887 - 4172 - ac8a - 638 a9f8d984b ",
+    "standardkey_id ": "773 ae328 - 8912 - 4475 - a2db - f8cc9c71f6c5 ",
+    "name ": "Passport Number ",
+    "is_masked ": true,
+    "is_encrypted ": false,
+    "isnot_presented ": false,
+    "is_inbuild ": true
+}, {
+    "violation_id ": "a2f55e12 - c44e - 4492 - 95 c9 - 67 dacac44686 ",
+    "standardkey_id ": "773 ae328 - 8912 - 4475 - a2db - f8cc9c71f6c5 ",
+    "name ": "Driver 's License Number",
+    "is_masked": true,
+    "is_encrypted": false,
+    "isnot_presented": false,
+    "is_inbuild": true
+}, {
+    "violation_id": "7dbcd626-aa5f-4762-9c96-c1864327e288",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Bank Account Number",
+    "is_masked": true,
+    "is_encrypted": false,
+    "isnot_presented": false,
+    "is_inbuild": true
+}, {
+    "violation_id": "55139310-ec49-4e7e-b893-31ed51fa583a",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Credit Card Number",
+    "is_masked": true,
+    "is_encrypted": false,
+    "isnot_presented": false,
+    "is_inbuild": true
+}, {
+    "violation_id": "f897594c-f018-4867-b72f-5109ad34db61",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Health Information",
+    "is_masked": false,
+    "is_encrypted": false,
+    "isnot_presented": true,
+    "is_inbuild": true
+}, {
+    "violation_id": "9d7e3196-416d-4e4a-8937-27b23eff5e29",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Biometric Data",
+    "is_masked": false,
+    "is_encrypted": false,
+    "isnot_presented": true,
+    "is_inbuild": true
+}, {
+    "violation_id": "7e31bff7-f9a5-4127-bcb9-a4cd6101ddf0",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Ethnicity or Race",
+    "is_masked": true,
+    "is_encrypted": false,
+    "isnot_presented": false,
+    "is_inbuild": true
+}, {
+    "violation_id": "2f4cc138-a5d1-4a30-8d92-74abe3443154",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Religious or Philosophical Beliefs",
+    "is_masked": false,
+    "is_encrypted": false,
+    "isnot_presented": true,
+    "is_inbuild": true
+}, {
+    "violation_id": "97fd06a5-ce67-40df-8c53-16ae553d3b53",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Political Opinions",
+    "is_masked": false,
+    "is_encrypted": false,
+    "isnot_presented": true,
+    "is_inbuild": true
+}, {
+    "violation_id": "4637530f-0e25-4e8b-a5fb-7db016e69fb6",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Sexual Orientation",
+    "is_masked": false,
+    "is_encrypted": false,
+    "isnot_presented": true,
+    "is_inbuild": true
+}, {
+    "violation_id": "8a6000c4-3251-4cdd-bcb5-c380fa84f296",
+    "standardkey_id": "773ae328-8912-4475-a2db-f8cc9c71f6c5",
+    "name": "Criminal Records",
+    "is_masked": false,
+    "is_encrypted": false,
+    "isnot_presented": true,
+    "is_inbuild": true
+}]

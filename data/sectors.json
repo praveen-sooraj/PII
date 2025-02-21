@@ -1,0 +1,130 @@
+{
+    "sectors": [
+        {
+            "sector": "agriculture",
+            "keywords": [
+                "farming", "crops", "livestock", "dairy", "agriculture", "horticulture", "aquaculture", "organic"
+            ]
+        },
+        {
+            "sector": "manufacturing",
+            "keywords": [
+                "production", "factory", "assembly", "machinery", "manufacturing", "textiles", "electronics", "vehicles"
+            ]
+        },
+        {
+            "sector": "Construction",
+            "keywords": [
+                "construction", "building", "infrastructure", "residential", "commercial", "renovation", "architecture"
+            ]
+        },
+        {
+            "sector": "medical",
+            "keywords": [
+                "Healthcare","health", "hospital", "clinic", "medical", "pharmaceuticals", "biotech", "insurance", "telemedicine"
+            ]
+        },
+        {
+            "sector": "Information Technology",
+            "keywords": [
+                "software", "cloud", "cybersecurity", "data", "AI", "network", "e-commerce", "blockchain","information technology"
+            ]
+        },
+        {
+            "sector": "Finance",
+            "keywords": [
+                "banking", "investment", "loans", "credit", "wealth", "insurance", "asset", "fintech","finance","share market","stocks", "payment"
+            ]
+        },
+        {
+            "sector": "Energy",
+            "keywords": [
+                "oil", "gas", "renewable", "solar", "wind", "nuclear", "energy", "hydropower"
+            ]
+        },
+        {
+            "sector": "Retail",
+            "keywords": [
+                "retail", "wholesale", "e-commerce", "stores", "supermarket", "shopping", "apparel", "franchise","e commerce"
+            ]
+        },
+        {
+            "sector": "Transportation",
+            "keywords": [
+                "freight", "shipping", "logistics", "transport", "delivery", "airlines", "rail", "warehousing"
+            ]
+        },
+        {
+            "sector": "Education",
+            "keywords": [
+                "school", "university", "learning", "education", "teaching", "training", "online courses", "edtech"
+            ]
+        },
+        {
+            "sector": "Telecommunications",
+            "keywords": [
+                "telecom", "broadband", "mobile", "5G", "network", "fiber", "satellite", "ISP","telecommunications"
+            ]
+        },
+        {
+            "sector": "Tourism",
+            "keywords": [
+                "hotel", "travel", "tourism", "restaurant", "resort", "vacation", "event management", "accommodation","hospitality"
+            ]
+        },
+        {
+            "sector": "Real Estate",
+            "keywords": [
+                "real estate", "property", "residential", "commercial", "land", "investment", "brokerage", "development"
+            ]
+        },
+        {
+            "sector": "Automotive",
+            "keywords": [
+                "automotive", "vehicles", "cars", "trucks", "manufacturing", "parts", "repair", "dealership"
+            ]
+        },
+        {
+            "sector": "Entertainment and Media",
+            "keywords": [
+                "media", "film", "television", "music", "streaming", "publishing", "video games", "advertising"
+            ]
+        },
+        {
+            "sector": "Pharmaceuticals",
+            "keywords": [
+                "pharmaceuticals", "drugs", "biotech", "vaccine", "R&D", "clinical trials", "manufacturing", "distribution"
+            ]
+        },
+        {
+            "sector": "Government",
+            "keywords": [
+                "government", "public services", "administration", "law enforcement", "public safety", "infrastructure", "regulation", "social services"
+            ]
+        },
+        {
+            "sector": "Aerospace and Defense",
+            "keywords": [
+                "aerospace", "defense", "aircraft", "satellites", "spacecraft", "military", "missiles" 
+            ]
+        },
+        {
+            "sector": "Natural Resources",
+            "keywords": [
+                "mining", "oil", "gas", "extraction", "natural resources", "forestry", "logging", "renewable"
+            ]
+        },
+        {
+            "sector": "Nonprofit and Charitable Organizations",
+            "keywords": [
+                "nonprofit", "charity", "foundation", "social services", "grantmaking", "volunteering", "healthcare", "education"
+            ]
+        },
+        {
+            "sector": "Sports",
+            "keywords": [
+                "sports", "athletics", "teams", "leagues", "fitness", "stadiums", "training", "events"
+            ]
+        }
+    ]
+}

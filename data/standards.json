@@ -1,0 +1,633 @@
+{
+  "data": [
+    {
+      "name": "HIPPA",
+      "sectror": "medical",
+      "full_name": "Health Insurance Portability and Accountability Act",
+      "violating_keys": [
+        {
+          "name": "Admission no",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Patient id",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Medical Record Numbers",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Health Insurance Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Biometric Identifiers",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Clinical Data",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Prescription Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Doctor and Healthcare Provider Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Genetic Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Treatment and Procedure Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Emergency Contact Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Photographs and Imaging Results",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Billing Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Appointment Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Communication Records",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "medication",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "medical condition",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "blood type",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "birth certificate number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "patient id number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "health record number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "doctor's license number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "medical device serial number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "medical facility registration number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "health insurance policy number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "lab test number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "prescription number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "health card number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "clinical trial identifier",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "healthcare provider identifier",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "treatment plan number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        }
+      ]
+    }
+,
+
+    {
+      "name": "GDPR",
+      "GDPR": "General Data Protection Regulation",
+      "sectror": "general",
+      "violating_keys": [
+        {
+          "name": "full name",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Address",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Email address",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Phone number",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "IP address",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Location data",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Online identifier",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Biometric data",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Health data",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Genetic data",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Political opinions",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Sexual orientation",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Racial or ethnic origin",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Religious or philosophical beliefs",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Trade union membership",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        }
+      ]
+   
+    }
+ ,
+
+
+    {
+      "name": "PCI_DSS",
+      "full_name": "Payment Card Industry Data Security Standard",
+      "sectror": "finance",
+      "violating_keys": [
+        {
+          "name": "Primary Account Number (PAN)",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Cardholder Name",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Expiration Date",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Service Code",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Full Magnetic Stripe Data",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "CVC / CVV / CV2 / CID",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "PIN / PIN Block",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "Sensitive Authentication Data (SAD)",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Cardholder Data",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Cardholder Personal Identification Number (PIN)",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Card Validation Code (CVC, CVV, CV2, CID)",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Magnetic Stripe Data",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        }
+      ]
+
+}
+,
+
+
+    {
+      "name": "FISMA",
+      "full_name": "Federal Information Security Management Act",
+      "sectror": "general",
+      "violating_keys": [
+        {
+          "name": "full name",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "age",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "address",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "social Security Number",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "classified Level",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "security Clearance",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "agency Code",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "classification Level",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "compartment Code",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "access Control",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "taxpayer Identification Number",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "income Amount",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "deductions",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "medical Record Number",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "patient Name",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "diagnosis Code",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "bank Account Number",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "credit Card Number",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "financial Statement",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "trade Secret",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "patent Number",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "proprietary Algorithm",
+          "ismasked": false,
+          "isEncrypted": true,
+          "isNotPresnted": false
+        },
+        {
+          "name": "infrastructure Asset Id",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "system Configuration",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "emergency Procedures",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        }
+      ]
+
+ 
+}
+
+,    
+
+
+    {
+      "name": "PDPL",
+      "full_name": "Personal Data Protection Law",
+      "sectror": "general",
+      "violating_keys": [
+        {
+          "name": "Full Name",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "National Identification Number (NID)",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Passport Number",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Driver's License Number",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Bank Account Number",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Credit Card Number",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Health Information",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "Biometric Data",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "Ethnicity or Race",
+          "ismasked": true,
+          "isEncrypted": false,
+          "isNotPresnted": false
+        },
+        {
+          "name": "Religious or Philosophical Beliefs",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "Political Opinions",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "Sexual Orientation",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        },
+        {
+          "name": "Criminal Records",
+          "ismasked": false,
+          "isEncrypted": false,
+          "isNotPresnted": true
+        }
+      ]  
+  
+}
+
+  ]
+}

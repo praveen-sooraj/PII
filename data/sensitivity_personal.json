@@ -1,0 +1,26 @@
+
+{"sensitivity_personal_levels" : {
+    "name": {"header": "low", "body": "low", "query": "low"},
+    "full name": {"header": "low", "body": "low", "query": "low"},
+    "gender": {"header": "low", "body": "low", "query": "low"},
+    "home address": {"header": "medium", "body": "medium", "query": "medium"},
+    "email address": {"header": "medium", "body": "medium", "query": "medium"},
+    "phone number": {"header": "medium", "body": "medium", "query": "medium"},
+    "telephone": {"header": "medium", "body": "medium", "query": "medium"},
+    "social security number": {"header": "high", "body": "high", "query": "high"},
+    "passport number": {"header": "high", "body": "high", "query": "high"},
+    "driver's license number": {"header": "high", "body": "high", "query": "high"},
+    "date of birth": {"header": "medium", "body": "medium", "query": "medium"},
+    "place of birth": {"header": "medium", "body": "medium", "query": "medium"},
+    "mother's maiden name": {"header": "high", "body": "high", "query": "high"},
+    "biometric records": {"header": "high", "body": "high", "query": "high"},
+    "employment information": {"header": "medium", "body": "medium", "query": "medium"},
+    "education records": {"header": "medium", "body": "medium", "query": "medium"},
+    "college": {"header": "medium", "body": "medium", "query": "medium"},
+    "school": {"header": "medium", "body": "medium", "query": "medium"},
+    "education": {"header": "medium", "body": "medium", "query": "medium"},
+    "Government ID": {"header": "high", "body": "high", "query": "high"},
+    "Aaadhar": {"header": "high", "body": "high", "query": "high"},
+    "Marital Status": {"header": "medium", "body": "medium", "query": "medium"},
+    "Spouse's Information": {"header": "high", "body": "high", "query": "high"}
+}}

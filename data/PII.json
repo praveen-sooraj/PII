@@ -1,0 +1,1451 @@
+{"data":[
+{
+    "label":"medical",
+    "list":[
+        "Admission no",
+        "Patient id",
+        "Medical Record Numbers",
+        "Health Insurance Information",
+        "Biometric Identifiers",
+        "Clinical Data",
+        "Prescription Information",
+        "Doctor and Healthcare Provider Information",
+        "Genetic Information",
+        "Treatment and Procedure Information",
+        "Emergency Contact Information",
+        "Photographs and Imaging Results",
+        "Billing Information",
+        "Appointment Information",
+        "Communication Records",
+        "medication",
+        "medical condition",
+        "blood type",
+        "birth certificate number",
+        "patient id number",
+        "health record number",
+        "doctor's license number",
+        "medical device serial number", 
+        "medical facility registration number",
+        "health insurance policy number", 
+        "lab test number",
+        "prescription number", 
+        "health card number",
+        "clinical trial identifier",
+        "healthcare provider identifier", 
+        "treatment plan number"
+     
+
+
+    ],
+    "pii_level":{
+        "Admission no": {"header": "medium", "body": "high", "query": "high"},
+    "Patient id": {"header": "medium", "body": "high", "query": "high"},
+    "Medical Record Numbers": {"header": "high", "body": "high", "query": "high"},
+    "Health Insurance Information": {"header": "high", "body": "high", "query": "high"},
+    "Biometric Identifiers": {"header": "high", "body": "high", "query": "high"},
+    "Clinical Data": {"header": "high", "body": "high", "query": "high"},
+    "Prescription Information": {"header": "medium", "body": "high", "query": "high"},
+    "Doctor and Healthcare Provider Information": {"header": "medium", "body": "high", "query": "high"},
+    "Genetic Information": {"header": "high", "body": "high", "query": "high"},
+    "Treatment and Procedure Information": {"header": "high", "body": "high", "query": "high"},
+    "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+    "Photographs and Imaging Results": {"header": "high", "body": "high", "query": "high"},
+    "Billing Information": {"header": "high", "body": "high", "query": "high"},
+    "Appointment Information": {"header": "medium", "body": "high", "query": "high"},
+    "Communication Records": {"header": "high", "body": "high", "query": "high"},
+    "medication": {"header": "medium", "body": "high", "query": "high"},
+    "medical condition": {"header": "high", "body": "high", "query": "high"},
+    "blood type": {"header": "high", "body": "high", "query": "high"},
+    "birth certificate number": {"header": "high", "body": "high", "query": "high"},
+    "patient id number": {"header": "medium", "body": "high", "query": "high"},
+    "health record number": {"header": "high", "body": "high", "query": "high"},
+    "doctor's license number": {"header": "high", "body": "high", "query": "high"},
+    "medical device serial number": {"header": "high", "body": "high", "query": "high"},
+    "medical facility registration number": {"header": "high", "body": "high", "query": "high"},
+    "health insurance policy number": {"header": "high", "body": "high", "query": "high"},
+    "lab test number": {"header": "high", "body": "high", "query": "high"},
+    "prescription number": {"header": "high", "body": "high", "query": "high"},
+    "health card number": {"header": "high", "body": "high", "query": "high"},
+    "clinical trial identifier": {"header": "high", "body": "high", "query": "high"},
+    "healthcare provider identifier": {"header": "high", "body": "high", "query": "high"},
+    "treatment plan number": {"header": "high", "body": "high", "query": "high"}
+    }
+},
+
+
+{
+    "label":"healthcare",
+    "list":[
+        "Admission no",
+        "Patient",
+        "Medical Record Numbers",
+        "Health Insurance Information",
+        "Biometric Identifiers",
+        "Clinical Data",
+        "Prescription Information",
+        "Doctor and Healthcare Provider Information",
+        "Genetic Information",
+        "Treatment and Procedure Information",
+        "Emergency Contact Information",
+        "Photographs and Imaging Results",
+        "Billing Information",
+        "Appointment Information",
+        "Communication Records",
+        "medication",
+        "medical condition",
+        "blood type",
+        "birth certificate number",
+        "patient id number",
+        "health record number",
+        "doctor's license number",
+        "medical device serial number", 
+        "medical facility registration number",
+        "health insurance policy number", 
+        "lab test number",
+        "prescription number", 
+        "health card number",
+        "clinical trial identifier",
+        "healthcare provider identifier", 
+        "treatment plan number"
+    ],
+
+    "pii_level":{
+    "Admission no": {"header": "medium", "body": "high", "query": "high"},
+    "Patient details": {"header": "medium", "body": "high", "query": "high"},
+    "Medical Record Numbers": {"header": "high", "body": "high", "query": "high"},
+    "Health Insurance Information": {"header": "high", "body": "high", "query": "high"},
+    "Biometric Identifiers": {"header": "high", "body": "high", "query": "high"},
+    "Clinical Data": {"header": "high", "body": "high", "query": "high"},
+    "Prescription Information": {"header": "medium", "body": "high", "query": "high"},
+    "Doctor and Healthcare Provider Information": {"header": "medium", "body": "high", "query": "high"},
+    "Genetic Information": {"header": "high", "body": "high", "query": "high"},
+    "Treatment and Procedure Information": {"header": "high", "body": "high", "query": "high"},
+    "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+    "Photographs and Imaging Results": {"header": "high", "body": "high", "query": "high"},
+    "Billing Information": {"header": "high", "body": "high", "query": "high"},
+    "Appointment Information": {"header": "medium", "body": "high", "query": "high"},
+    "Communication Records": {"header": "high", "body": "high", "query": "high"},
+    "medication": {"header": "medium", "body": "high", "query": "high"},
+    "medical condition": {"header": "high", "body": "high", "query": "high"},
+    "blood type": {"header": "high", "body": "high", "query": "high"},
+    "birth certificate number": {"header": "high", "body": "high", "query": "high"},
+    "patient id number": {"header": "medium", "body": "high", "query": "high"},
+    "health record number": {"header": "high", "body": "high", "query": "high"},
+    "doctor's license number": {"header": "high", "body": "high", "query": "high"},
+    "medical device serial number": {"header": "high", "body": "high", "query": "high"},
+    "medical facility registration number": {"header": "high", "body": "high", "query": "high"},
+    "health insurance policy number": {"header": "high", "body": "high", "query": "high"},
+    "lab test number": {"header": "high", "body": "high", "query": "high"},
+    "prescription number": {"header": "high", "body": "high", "query": "high"},
+    "health card number": {"header": "high", "body": "high", "query": "high"},
+    "clinical trial identifier": {"header": "high", "body": "high", "query": "high"},
+    "healthcare provider identifier": {"header": "high", "body": "high", "query": "high"},
+    "treatment plan number": {"header": "high", "body": "high", "query": "high"}
+    }
+},
+{
+    "label": "finance",
+    "list": [
+        "IFCE",
+        "CVV",
+        "Expiry Date",
+        "Employment Information",
+        "Financial Information",
+        "Bank Account Numbers",
+        "Account Numbers",
+        "Credit Card Numbers",
+        "Loan Information",
+        "Tax Identification Number",
+        "Income Information",
+        "Investment Information",
+        "Insurance Policy Numbers",
+        "Transaction Histories",
+        "Transaction id",
+        "Payment History",
+        "payement Id",
+        "pan",
+        "debit card",
+        "currency",
+        "Stock Account Numbers",
+        "Stock Transaction Histories",
+        "Stock Investment Information",
+        "Brokerage Account Numbers"
+    ],
+    "pii_level": {
+        "IFCE": {"header": "high", "body": "high", "query": "high"},
+        "CVV": {"header": "high", "body": "high", "query": "high"},
+        "Expiry Date": {"header": "medium", "body": "high", "query": "high"},
+        "Employment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Financial Information": {"header": "high", "body": "high", "query": "high"},
+        "Bank Account Numbers": {"header": "high", "body": "high", "query": "high"},
+        "Account Numbers": {"header": "high", "body": "high", "query": "high"},
+        "Credit Card Numbers": {"header": "high", "body": "high", "query": "high"},
+        "Loan Information": {"header": "high", "body": "high", "query": "high"},
+        "Tax Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Income Information": {"header": "high", "body": "high", "query": "high"},
+        "Investment Information": {"header": "high", "body": "high", "query": "high"},
+        "Insurance Policy Numbers": {"header": "high", "body": "high", "query": "high"},
+        "Transaction Histories": {"header": "high", "body": "high", "query": "high"},
+        "Transaction id": {"header": "high", "body": "high", "query": "high"},
+        "Payment History": {"header": "high", "body": "high", "query": "high"},
+        "payement Id": {"header": "high", "body": "high", "query": "high"},
+        "pan": {"header": "high", "body": "high", "query": "high"},
+        "Stock Account Numbers": {"header": "high", "body": "high", "query": "high"},
+        "Stock Transaction Histories": {"header": "high", "body": "high", "query": "high"},
+        "Stock Investment Information": {"header": "high", "body": "high", "query": "high"},
+        "Brokerage Account Numbers": {"header": "high", "body": "high", "query": "high"}
+    }
+}
+,
+{
+    "label":"education",
+    "list":[
+        "Admission no",
+        "Social Security Number (SSN)",
+        "Student Identification Number",
+        "Parent/Guardian Information",
+        "Emergency Contact Information",
+        "Enrollment Information",
+        "Academic Records",
+        "Attendance Records",
+        "Disciplinary Records",
+        "Health Records",
+        "Financial Aid Information",
+        "Payment Information",
+        "Library Records",
+        "Roll No",
+        "Marks",
+        "Rank"
+    
+    ],
+    "pii_level" : {
+        "Admission no": {"header": "medium", "body": "high", "query": "high"},
+        "Social Security Number (SSN)": {"header": "high", "body": "high", "query": "high"},
+        "Student Identification Number": {"header": "medium", "body": "high", "query": "high"},
+        "Driver's License Number": {"header": "high", "body": "high", "query": "high"},
+        "Parent/Guardian Information": {"header": "medium", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+        "Enrollment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Academic Records": {"header": "high", "body": "high", "query": "high"},
+        "Attendance Records": {"header": "medium", "body": "high", "query": "high"},
+        "Disciplinary Records": {"header": "high", "body": "high", "query": "high"},
+        "Health Records": {"header": "high", "body": "high", "query": "high"},
+        "Financial Aid Information": {"header": "high", "body": "high", "query": "high"},
+        "Payment Information": {"header": "high", "body": "high", "query": "high"},
+        "Library Records": {"header": "medium", "body": "high", "query": "high"},
+        "Roll No": {"header": "medium", "body": "high", "query": "high"},
+        "Marks": {"header": "medium", "body": "high", "query": "high"},
+        "Rank": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"technology",
+    "list":[   
+            "IP Address",
+            "Device MAC Address",
+            "Device Serial Number",
+            "Biometric Data (e.g., fingerprint, facial recognition)",
+            "Payment Card Information (e.g., credit card number, CVV)",
+            "Bank Account Information",
+            "Social Media Account Information",
+            "Location Data (e.g., GPS coordinates)",
+            "Cookies and Tracking Data",
+            "Device Information (e.g., operating system, browser type)",
+            "Online Activity History (e.g., browsing history, search queries)",
+            "API Keys",
+            "Security Questions and Answers",
+            "Encryption Keys" 
+    ],
+    "pii_level" :{
+        "IP Address": {"header": "medium", "body": "high", "query": "high"},
+        "Device MAC Address": {"header": "medium", "body": "high", "query": "high"},
+        "Device Serial Number": {"header": "medium", "body": "high", "query": "high"},
+        "Biometric Data (e.g., fingerprint, facial recognition)": {"header": "high", "body": "high", "query": "high"},
+        "Payment Card Information (e.g., credit card number, CVV)": {"header": "high", "body": "high", "query": "high"},
+        "Bank Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "medium", "body": "high", "query": "high"},
+        "Location Data (e.g., GPS coordinates)": {"header": "medium", "body": "high", "query": "high"},
+        "Cookies and Tracking Data": {"header": "medium", "body": "high", "query": "high"},
+        "Device Information (e.g., operating system, browser type)": {"header": "medium", "body": "high", "query": "high"},
+        "Online Activity History (e.g., browsing history, search queries)": {"header": "medium", "body": "high", "query": "high"},
+        "API Keys": {"header": "high", "body": "high", "query": "high"},
+        "Security Questions and Answers": {"header": "high", "body": "high", "query": "high"},
+        "Encryption Keys": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"real estate",
+    "list":[
+       
+     
+           
+            "Employment Information",
+            "Income Information",
+            "Credit Score",
+            "Bank Account Information",
+            "Mortgage Information",
+            "Property Ownership History",
+            "Property Tax Information",
+            "Insurance Information",
+            "Previous Addresses",
+            "Tenant Information (for rental properties)",
+            "Real Estate Transaction History"
+        
+    
+    ],
+    "pii_level" : {
+        "Employment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Income Information": {"header": "high", "body": "high", "query": "high"},
+        "Credit Score": {"header": "high", "body": "high", "query": "high"},
+        "Bank Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Mortgage Information": {"header": "high", "body": "high", "query": "high"},
+        "Property Ownership History": {"header": "medium", "body": "high", "query": "high"},
+        "Property Tax Information": {"header": "medium", "body": "high", "query": "high"},
+        "Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Previous Addresses": {"header": "medium", "body": "high", "query": "high"},
+        "Tenant Information (for rental properties)": {"header": "medium", "body": "high", "query": "high"},
+        "Real Estate Transaction History": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+}, 
+
+{
+    "label":"transportation",
+    "list":[
+        "Driver's License Number",
+        "Vehicle Registration Number",
+        "Vehicle Identification Number (VIN)",
+        "License Plate Number",
+        "Insurance Information",
+        "Credit Card Information (for tolls, parking fees, etc.)",
+        "Payment History (e.g., for public transportation services)",
+        "Travel History (e.g., routes taken, destinations)",
+        "Location Data (e.g., GPS coordinates)"
+    ],
+    "pii_level" : {
+        "Driver's License Number": {"header": "high", "body": "high", "query": "high"},
+        "Vehicle Registration Number": {"header": "medium", "body": "high", "query": "high"},
+        "Vehicle Identification Number (VIN)": {"header": "medium", "body": "high", "query": "high"},
+        "License Plate Number": {"header": "medium", "body": "high", "query": "high"},
+        "Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Credit Card Information (for tolls, parking fees, etc.)": {"header": "high", "body": "high", "query": "high"},
+        "Payment History (e.g., for public transportation services)": {"header": "high", "body": "high", "query": "high"},
+        "Travel History (e.g., routes taken, destinations)": {"header": "high", "body": "high", "query": "high"},
+        "Location Data (e.g., GPS coordinates)": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"manufacturing",
+    "list":[
+            "Social Security Number (SSN)",
+            "Employee Identification Number",
+            "Salary Information",
+            "Bank Account Information (for payroll)",
+            "Health Insurance Information",
+            "Emergency Contact Information",
+            "Work History",
+            "Training Records",
+            "Performance Evaluations",
+            "Supplier Information (e.g., contact details, contracts)",
+            "Product Specifications",
+            "Production Data",
+            "Inventory Records",
+            "Customer Information (e.g., names, addresses, contact details)",
+            "Order History",
+            "Warranty Information",
+            "Service Records",
+            "Quality Control Data"
+        
+    ],
+    "pii_level" : {
+        "Social Security Number (SSN)": {"header": "high", "body": "high", "query": "high"},
+        "Employee Identification Number": {"header": "medium", "body": "high", "query": "high"},
+        "Salary Information": {"header": "high", "body": "high", "query": "high"},
+        "Bank Account Information (for payroll)": {"header": "high", "body": "high", "query": "high"},
+        "Health Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+        "Work History": {"header": "medium", "body": "high", "query": "high"},
+        "Training Records": {"header": "medium", "body": "high", "query": "high"},
+        "Performance Evaluations": {"header": "high", "body": "high", "query": "high"},
+        "Supplier Information (e.g., contact details, contracts)": {"header": "medium", "body": "high", "query": "high"},
+        "Product Specifications": {"header": "medium", "body": "high", "query": "high"},
+        "Production Data": {"header": "medium", "body": "high", "query": "high"},
+        "Inventory Records": {"header": "medium", "body": "high", "query": "high"},
+        "Customer Information (e.g., names, addresses, contact details)": {"header": "high", "body": "high", "query": "high"},
+        "Order History": {"header": "medium", "body": "high", "query": "high"},
+        "Warranty Information": {"header": "medium", "body": "high", "query": "high"},
+        "Service Records": {"header": "medium", "body": "high", "query": "high"},
+        "Quality Control Data": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"energy",
+    "list":[
+    "Utility Account Number",
+    "Meter Number",
+    "Billing Information",
+    "Payment History",
+    "Energy Usage Data",
+    "Service Location Information",
+    "Emergency Contact Information",
+    "Energy Efficiency Program Participation",
+    "Energy Generation Data",
+    "Customer Service Interactions ",
+    "Contractual Agreements",
+    "Supplier Information",
+    "Employee Information",
+    "Maintenance Records"
+        
+    ],
+    "pii_level" : {
+        "Utility Account Number": {"header": "medium", "body": "high", "query": "high"},
+        "Meter Number": {"header": "medium", "body": "high", "query": "high"},
+        "Billing Information": {"header": "high", "body": "high", "query": "high"},
+        "Payment History": {"header": "high", "body": "high", "query": "high"},
+        "Energy Usage Data": {"header": "medium", "body": "high", "query": "high"},
+        "Service Location Information": {"header": "medium", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+        "Energy Efficiency Program Participation": {"header": "medium", "body": "high", "query": "high"},
+        "Energy Generation Data": {"header": "medium", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "medium", "body": "high", "query": "high"},
+        "Contractual Agreements": {"header": "medium", "body": "high", "query": "high"},
+        "Supplier Information": {"header": "medium", "body": "high", "query": "high"},
+        "Employee Information": {"header": "high", "body": "high", "query": "high"},
+        "Maintenance Records": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+}
+
+,{
+    "label":"retail",
+    "list":[
+        "Credit Card Information",
+        "Debit Card Information",
+        "Payment History",
+        "Purchase History",
+        "Customer Loyalty Program Information",
+        "Product Preferences",
+        "Shopping Habits",
+        "Returns and Exchanges Information",
+        "Warranty Information",
+        "Gift Card Information",
+        "Customer Service Interactions (e.g., inquiries, complaints)",
+        "Online Account Information",
+        "Social Media Account Information",
+        "Mobile Device Information",
+        "Geolocation Data (e.g., for location-based services)",
+        "Demographic Information",
+        "Survey Responses",
+        "Feedback and Reviews"
+    ],
+    "pii_level" : {
+        "Credit Card Information": {"header": "high", "body": "high", "query": "high"},
+        "Debit Card Information": {"header": "high", "body": "high", "query": "high"},
+        "Payment History": {"header": "high", "body": "high", "query": "high"},
+        "Purchase History": {"header": "high", "body": "high", "query": "high"},
+        "Customer Loyalty Program Information": {"header": "medium", "body": "high", "query": "high"},
+        "Product Preferences": {"header": "medium", "body": "high", "query": "high"},
+        "Shopping Habits": {"header": "medium", "body": "high", "query": "high"},
+        "Returns and Exchanges Information": {"header": "medium", "body": "high", "query": "high"},
+        "Warranty Information": {"header": "medium", "body": "high", "query": "high"},
+        "Gift Card Information": {"header": "medium", "body": "high", "query": "high"},
+        "Customer Service Interactions (e.g., inquiries, complaints)": {"header": "medium", "body": "high", "query": "high"},
+        "Online Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Mobile Device Information": {"header": "medium", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for location-based services)": {"header": "medium", "body": "high", "query": "high"},
+        "Demographic Information": {"header": "medium", "body": "high", "query": "high"},
+        "Survey Responses": {"header": "medium", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"pharmaceuticals",
+    "list":[
+        "Health Insurance Information",
+    "Medical History",
+    "Prescription Records",
+    "Laboratory Test Results",
+    "Biometric Data (e.g., fingerprints for authentication)",
+    "Clinical Trial Participation Information",
+    "Drug Adverse Reaction Reports",
+    "Pharmacy Information (e.g., prescriptions filled)",
+    "Physician Information",
+    "Healthcare Provider Notes",
+    "Patient Identification Numbers",
+    "Treatment Plans",
+    "Genetic Information",
+    "Medical Device Usage Data",
+    "Drug Manufacturing Data",
+    "Regulatory Submission Data (e.g., for drug approval)",
+    "Supplier Information (e.g., for raw materials)"
+    ],
+    "pii_level" : {
+        "Health Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Medical History": {"header": "high", "body": "high", "query": "high"},
+        "Prescription Records": {"header": "high", "body": "high", "query": "high"},
+        "Laboratory Test Results": {"header": "high", "body": "high", "query": "high"},
+        "Biometric Data (e.g., fingerprints for authentication)": {"header": "high", "body": "high", "query": "high"},
+        "Clinical Trial Participation Information": {"header": "high", "body": "high", "query": "high"},
+        "Drug Adverse Reaction Reports": {"header": "high", "body": "high", "query": "high"},
+        "Pharmacy Information (e.g., prescriptions filled)": {"header": "high", "body": "high", "query": "high"},
+        "Physician Information": {"header": "high", "body": "high", "query": "high"},
+        "Healthcare Provider Notes": {"header": "high", "body": "high", "query": "high"},
+        "Patient Identification Numbers": {"header": "high", "body": "high", "query": "high"},
+        "Treatment Plans": {"header": "high", "body": "high", "query": "high"},
+        "Genetic Information": {"header": "high", "body": "high", "query": "high"},
+        "Medical Device Usage Data": {"header": "high", "body": "high", "query": "high"},
+        "Drug Manufacturing Data": {"header": "high", "body": "high", "query": "high"},
+        "Regulatory Submission Data (e.g., for drug approval)": {"header": "high", "body": "high", "query": "high"},
+        "Supplier Information (e.g., for raw materials)": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"agriculture",
+    "list":[
+        "Farm Ownership Information",
+    "Land Parcel Information",
+    "Crop Planting and Harvesting Data",
+    "Livestock Information (e.g., identification numbers)",
+    "Agricultural Equipment Ownership Information",
+    "Farm Financial Information",
+    "Supplier Information (e.g., seed suppliers, equipment suppliers)",
+    "Customer Information (e.g., buyers of agricultural products)",
+    "Contractual Agreements (e.g., supply contracts, lease agreements)",
+    "Employee Information (for farm labor management)",
+    "Pesticide and Fertilizer Usage Records",
+    "Water Usage Data",
+    "Soil Testing Results",
+    "Crop Yield Data",
+    "Weather Data (e.g., for farm management)",
+    "Research and Development Data (e.g., experimental crop varieties)"
+    ],
+    "pii_level" : {
+        "Farm Ownership Information": {"header": "high", "body": "high", "query": "high"},
+        "Land Parcel Information": {"header": "high", "body": "high", "query": "high"},
+        "Crop Planting and Harvesting Data": {"header": "high", "body": "high", "query": "high"},
+        "Livestock Information (e.g., identification numbers)": {"header": "high", "body": "high", "query": "high"},
+        "Agricultural Equipment Ownership Information": {"header": "high", "body": "high", "query": "high"},
+        "Farm Financial Information": {"header": "high", "body": "high", "query": "high"},
+        "Supplier Information (e.g., seed suppliers, equipment suppliers)": {"header": "high", "body": "high", "query": "high"},
+        "Customer Information (e.g., buyers of agricultural products)": {"header": "high", "body": "high", "query": "high"},
+        "Contractual Agreements (e.g., supply contracts, lease agreements)": {"header": "high", "body": "high", "query": "high"},
+        "Employee Information (for farm labor management)": {"header": "high", "body": "high", "query": "high"},
+        "Pesticide and Fertilizer Usage Records": {"header": "high", "body": "high", "query": "high"},
+        "Water Usage Data": {"header": "high", "body": "high", "query": "high"},
+        "Soil Testing Results": {"header": "high", "body": "high", "query": "high"},
+        "Crop Yield Data": {"header": "high", "body": "high", "query": "high"},
+        "Weather Data (e.g., for farm management)": {"header": "high", "body": "high", "query": "high"},
+        "Research and Development Data (e.g., experimental crop varieties)": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+},{
+    "label":"construction",
+    "list":[
+     "Employment Information (for construction workers)",
+    "Work History",
+    "Training and Certification Records",
+    "Payroll Information",
+    "Bank Account Information (for payroll)",
+    "Emergency Contact Information",
+    "Supplier Information (e.g., contact details, contracts)",
+    "Contractual Agreements (e.g., subcontractor agreements, vendor contracts)",
+    "Customer Information (e.g., property owners, project sponsors)",
+    "Project Plans and Specifications",
+    "Building Permit Information",
+    "Safety Incident Reports",
+    "Construction Progress Reports",
+    "Equipment Usage Data",
+    "Material Inventory Records",
+    "Warranty Information",
+    "Subcontractor Performance Evaluations",
+    "Environmental Impact Assessments"
+    ],
+    "pii_level" : {
+        "Employment Information (for construction workers)": {"header": "high", "body": "high", "query": "high"},
+        "Work History": {"header": "high", "body": "high", "query": "high"},
+        "Training and Certification Records": {"header": "high", "body": "high", "query": "high"},
+        "Payroll Information": {"header": "high", "body": "high", "query": "high"},
+        "Bank Account Information (for payroll)": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+        "Supplier Information (e.g., contact details, contracts)": {"header": "medium", "body": "high", "query": "high"},
+        "Contractual Agreements (e.g., subcontractor agreements, vendor contracts)": {"header": "medium", "body": "high", "query": "high"},
+        "Customer Information (e.g., property owners, project sponsors)": {"header": "medium", "body": "high", "query": "high"},
+        "Project Plans and Specifications": {"header": "high", "body": "high", "query": "high"},
+        "Building Permit Information": {"header": "high", "body": "high", "query": "high"},
+        "Safety Incident Reports": {"header": "high", "body": "high", "query": "high"},
+        "Construction Progress Reports": {"header": "high", "body": "high", "query": "high"},
+        "Equipment Usage Data": {"header": "high", "body": "high", "query": "high"},
+        "Material Inventory Records": {"header": "high", "body": "high", "query": "high"},
+        "Warranty Information": {"header": "high", "body": "high", "query": "high"},
+        "Subcontractor Performance Evaluations": {"header": "high", "body": "high", "query": "high"},
+        "Environmental Impact Assessments": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+}
+,{
+    "label":"telecommunications",
+    "list":[
+       "Billing Information",
+    "Payment History",
+    "Call Detail Records",
+    "Internet Protocol (IP) Address",
+    "Device MAC Address",
+    "Device Identification Number (IMEI/MEID)",
+    "Location Data (e.g., GPS coordinates)",
+    "Customer Account Information",
+    "Service Usage Data (e.g., minutes used, data usage)",
+    "Subscription Information (e.g., service plans)",
+    "Technical Support Interactions",
+    "Customer Feedback and Complaints",
+    "Marketing Preferences",
+    "Credit Check Information",
+    "Contractual Agreements"
+    ],
+    "pii_level" : {
+        "Billing Information": {"header": "high", "body": "high", "query": "high"},
+        "Payment History": {"header": "high", "body": "high", "query": "high"},
+        "Call Detail Records": {"header": "high", "body": "high", "query": "high"},
+        "Internet Protocol (IP) Address": {"header": "high", "body": "high", "query": "high"},
+        "Device MAC Address": {"header": "high", "body": "high", "query": "high"},
+        "Device Identification Number (IMEI/MEID)": {"header": "high", "body": "high", "query": "high"},
+        "Location Data (e.g., GPS coordinates)": {"header": "high", "body": "high", "query": "high"},
+        "Customer Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Service Usage Data (e.g., minutes used, data usage)": {"header": "high", "body": "high", "query": "high"},
+        "Subscription Information (e.g., service plans)": {"header": "high", "body": "high", "query": "high"},
+        "Technical Support Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Customer Feedback and Complaints": {"header": "high", "body": "high", "query": "high"},
+        "Marketing Preferences": {"header": "high", "body": "high", "query": "high"},
+        "Credit Check Information": {"header": "high", "body": "high", "query": "high"},
+        "Contractual Agreements": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+},{
+    "label":"entertainment",
+    "list": [
+       "Credit Card Information",
+    "Debit Card Information",
+    "Payment History",
+    "Purchase History",
+    "Ticketing Information (e.g., event tickets)",
+    "Subscription Information (e.g., streaming services)",
+    "Viewing Habits (e.g., movies watched, songs listened to)",
+    "Preferences (e.g., favorite genres, artists)",
+    "Customer Loyalty Program Information",
+    "Social Media Account Information",
+    "Online Account Information",
+    "Feedback and Reviews",
+    "Customer Service Interactions (e.g., inquiries, complaints)",
+    "Device Information (e.g., for streaming services)",
+    "Geolocation Data (e.g., for location-based services)"
+
+    ],
+    "pii_level" : {
+        "Credit Card Information": {"header": "high", "body": "high", "query": "high"},
+        "Debit Card Information": {"header": "high", "body": "high", "query": "high"},
+        "Payment History": {"header": "high", "body": "high", "query": "high"},
+        "Purchase History": {"header": "high", "body": "high", "query": "high"},
+        "Ticketing Information (e.g., event tickets)": {"header": "high", "body": "high", "query": "high"},
+        "Subscription Information (e.g., streaming services)": {"header": "high", "body": "high", "query": "high"},
+        "Viewing Habits (e.g., movies watched, songs listened to)": {"header": "high", "body": "high", "query": "high"},
+        "Preferences (e.g., favorite genres, artists)": {"header": "high", "body": "high", "query": "high"},
+        "Customer Loyalty Program Information": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Online Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions (e.g., inquiries, complaints)": {"header": "high", "body": "high", "query": "high"},
+        "Device Information (e.g., for streaming services)": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for location-based services)": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+},{
+    "label":"insurance",
+    "list":[
+        "Vehicle Information (for auto insurance)",
+        "Property Information (for homeowners or renters insurance)",
+        "Health Information (for health insurance)",
+        "Employment Information",
+        "Financial Information (e.g., income, assets)",
+        "Credit History",
+        "Insurance Policy Information",
+        "Claims History",
+        "Beneficiary Information",
+        "Medical Records (for health insurance)",
+        "Accident Reports (for auto insurance)",
+        "Policyholder Interactions (e.g., inquiries, changes)",
+        "Marketing Preferences",
+        "Feedback and Reviews"
+    ],
+    "pii_level" : {
+        "Vehicle Information (for auto insurance)": {"header": "high", "body": "high", "query": "high"},
+        "Property Information (for homeowners or renters insurance)": {"header": "high", "body": "high", "query": "high"},
+        "Health Information (for health insurance)": {"header": "high", "body": "high", "query": "high"},
+        "Employment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Financial Information (e.g., income, assets)": {"header": "high", "body": "high", "query": "high"},
+        "Credit History": {"header": "high", "body": "high", "query": "high"},
+        "Insurance Policy Information": {"header": "high", "body": "high", "query": "high"},
+        "Claims History": {"header": "high", "body": "high", "query": "high"},
+        "Beneficiary Information": {"header": "high", "body": "high", "query": "high"},
+        "Medical Records (for health insurance)": {"header": "high", "body": "high", "query": "high"},
+        "Accident Reports (for auto insurance)": {"header": "high", "body": "high", "query": "high"},
+        "Policyholder Interactions (e.g., inquiries, changes)": {"header": "high", "body": "high", "query": "high"},
+        "Marketing Preferences": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+},{
+    "label":"media",
+    "list":[
+        "Payment Information (e.g., credit card details)",
+        "Subscription Information",
+        "Viewing/Reading History",
+        "Preferences (e.g., favorite genres, topics)",
+        "Social Media Account Information",
+        "Online Account Information",
+        "Feedback and Reviews",
+        "Customer Service Interactions",
+        "Device Information (e.g., for compatibility)",
+        "Geolocation Data (e.g., for local news or events)",
+        "Demographic Information"
+    ]
+    ,
+    "pii_level" : {
+        "Payment Information (e.g., credit card details)": {"header": "high", "body": "high", "query": "high"},
+        "Subscription Information": {"header": "high", "body": "high", "query": "high"},
+        "Viewing/Reading History": {"header": "high", "body": "high", "query": "high"},
+        "Preferences (e.g., favorite genres, topics)": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Online Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Device Information (e.g., for compatibility)": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for local news or events)": {"header": "high", "body": "high", "query": "high"},
+        "Demographic Information": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+},
+{
+    "label":"automotive",
+    "list":[
+       "Driver's License Number",
+    "Vehicle Identification Number (VIN)",
+    "Vehicle Registration Information",
+    "Vehicle Purchase History",
+    "Service and Maintenance Records",
+    "Insurance Information",
+    "Warranty Information",
+    "Financing or Lease Information",
+    "Credit History",
+    "Payment Information",
+    "Accident History",
+    "Roadside Assistance Usage Data",
+    "GPS Location Data (e.g., for navigation systems)",
+    "Vehicle Diagnostic Data",
+    "Customer Service Interactions",
+    "Feedback and Reviews"
+    ],
+    "pii_level" : {
+        "Driver's License Number": {"header": "high", "body": "high", "query": "high"},
+        "Vehicle Identification Number (VIN)": {"header": "high", "body": "high", "query": "high"},
+        "Vehicle Registration Information": {"header": "high", "body": "high", "query": "high"},
+        "Vehicle Purchase History": {"header": "high", "body": "high", "query": "high"},
+        "Service and Maintenance Records": {"header": "high", "body": "high", "query": "high"},
+        "Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Warranty Information": {"header": "high", "body": "high", "query": "high"},
+        "Financing or Lease Information": {"header": "high", "body": "high", "query": "high"},
+        "Credit History": {"header": "high", "body": "high", "query": "high"},
+        "Payment Information": {"header": "high", "body": "high", "query": "high"},
+        "Accident History": {"header": "high", "body": "high", "query": "high"},
+        "Roadside Assistance Usage Data": {"header": "high", "body": "high", "query": "high"},
+        "GPS Location Data (e.g., for navigation systems)": {"header": "high", "body": "high", "query": "high"},
+        "Vehicle Diagnostic Data": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+},{
+    "label":"aerospace",
+    "list":[
+        "National Identification Number",
+    "Employment Information",
+    "Travel History",
+    "Flight Booking Information",
+    "Ticketing Information",
+    "Boarding Pass Information",
+    "Passenger Manifests",
+    "Aircraft Maintenance Records",
+    "Flight Crew Information",
+    "Flight Operations Data",
+    "Aircraft Ownership Information",
+    "Aviation Insurance Information",
+    "Customer Service Interactions",
+    "Feedback and Reviews"
+    ]
+    ,"pii_level" : {
+        "National Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Employment Information": {"header": "high", "body": "high", "query": "high"},
+        "Travel History": {"header": "high", "body": "high", "query": "high"},
+        "Flight Booking Information": {"header": "high", "body": "high", "query": "high"},
+        "Ticketing Information": {"header": "high", "body": "high", "query": "high"},
+        "Boarding Pass Information": {"header": "high", "body": "high", "query": "high"},
+        "Passenger Manifests": {"header": "high", "body": "high", "query": "high"},
+        "Aircraft Maintenance Records": {"header": "high", "body": "high", "query": "high"},
+        "Flight Crew Information": {"header": "high", "body": "high", "query": "high"},
+        "Flight Operations Data": {"header": "high", "body": "high", "query": "high"},
+        "Aircraft Ownership Information": {"header": "high", "body": "high", "query": "high"},
+        "Aviation Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+},{
+    "label":"defense",
+    "list":[
+        "Social Security Number (SSN)",
+        "Military Service Number",
+        "Rank/Title",
+        "Security Clearance Information",
+        "Biometric Data (e.g., fingerprints, facial recognition)",
+        "Medical Records",
+        "Training Records",
+        "Deployment History",
+        "Service History",
+        "Payroll Information",
+        "Emergency Contact Information",
+        "Family Member Information",
+        "Equipment Issuance Records",
+        "Procurement Information",
+        "Sensitive Compartmented Information (SCI) Access",
+        "Operational Data",
+        "Incident Reports"
+    ]
+    
+    ,"pii_level" : {
+        "Social Security Number (SSN)": {"header": "high", "body": "high", "query": "high"},
+        "Military Service Number": {"header": "high", "body": "high", "query": "high"},
+        "Rank/Title": {"header": "high", "body": "high", "query": "high"},
+        "Security Clearance Information": {"header": "high", "body": "high", "query": "high"},
+        "Biometric Data (e.g., fingerprints, facial recognition)": {"header": "high", "body": "high", "query": "high"},
+        "Medical Records": {"header": "high", "body": "high", "query": "high"},
+        "Training Records": {"header": "high", "body": "high", "query": "high"},
+        "Deployment History": {"header": "high", "body": "high", "query": "high"},
+        "Service History": {"header": "high", "body": "high", "query": "high"},
+        "Payroll Information": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "high", "body": "high", "query": "high"},
+        "Family Member Information": {"header": "high", "body": "high", "query": "high"},
+        "Equipment Issuance Records": {"header": "high", "body": "high", "query": "high"},
+        "Procurement Information": {"header": "high", "body": "high", "query": "high"},
+        "Sensitive Compartmented Information (SCI) Access": {"header": "high", "body": "high", "query": "high"},
+        "Operational Data": {"header": "high", "body": "high", "query": "high"},
+        "Incident Reports": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+}
+,{
+    "label":"food",
+    "list":[
+        "Payment Information (e.g., credit card details)",
+        "Purchase History (e.g., food and beverage purchases)",
+        "Loyalty Program Information",
+        "Dietary Preferences or Restrictions",
+        "Food Allergy Information",
+        "Product Preferences",
+        "Feedback and Reviews",
+        "Customer Service Interactions",
+        "Social Media Account Information",
+        "Online Account Information",
+        "Delivery Address (for food delivery services)",
+        "Geolocation Data (e.g., for location-based promotions)",
+        "Demographic Information"
+    ],
+    "pii_level" : {
+        "Payment Information (e.g., credit card details)": {"header": "high", "body": "high", "query": "high"},
+        "Purchase History (e.g., food and beverage purchases)": {"header": "high", "body": "high", "query": "high"},
+        "Loyalty Program Information": {"header": "high", "body": "high", "query": "high"},
+        "Dietary Preferences or Restrictions": {"header": "high", "body": "high", "query": "high"},
+        "Food Allergy Information": {"header": "high", "body": "high", "query": "high"},
+        "Product Preferences": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Online Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Delivery Address (for food delivery services)": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for location-based promotions)": {"header": "high", "body": "high", "query": "high"},
+        "Demographic Information": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+},{
+    "label":"government",
+    "list":[
+     "Passport Number",
+    "National Identification Number",
+    "Tax Identification Number (TIN)",
+    "Employment Information",
+    "Education History",
+    "Health Information",
+    "Criminal Records",
+    "Legal Proceedings Information",
+    "Immigration Status",
+    "Voting History",
+    "Public Benefits Information",
+    "Property Ownership Information",
+    "Government Assistance Program Participation",
+    "Military Service Records",
+    "Public Official Records",
+    "Emergency Contact Information",
+    "Beneficiary Information",
+    "Publicly Available Information (e.g., government websites, public records)",
+    "Certificate number"
+    ]
+    
+    
+    
+},{
+    "label":"environmental",
+    "list":[
+      "Employment Information",
+    "Environmental Health Information",
+    "Exposure History to Environmental Hazards",
+    "Property Ownership Information",
+    "Land Use Records",
+    "Water Usage Data",
+    "Air Quality Monitoring Data",
+    "Soil Testing Results",
+    "Environmental Impact Assessment Data",
+    "Waste Management Records",
+    "Permitting Information",
+    "Compliance History",
+    "Environmental Incident Reports",
+    "Environmental Cleanup Records",
+    "Public Comments on Environmental Issues",
+    "Community Health Data",
+    "Emergency Contact Information"
+    ],
+    "pii_level" : {
+        "Passport Number": {"header": "high", "body": "high", "query": "high"},
+        "National Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Tax Identification Number (TIN)": {"header": "high", "body": "high", "query": "high"},
+        "Employment Information": {"header": "high", "body": "high", "query": "high"},
+        "Education History": {"header": "high", "body": "high", "query": "high"},
+        "Health Information": {"header": "high", "body": "high", "query": "high"},
+        "Criminal Records": {"header": "high", "body": "high", "query": "high"},
+        "Legal Proceedings Information": {"header": "high", "body": "high", "query": "high"},
+        "Immigration Status": {"header": "high", "body": "high", "query": "high"},
+        "Voting History": {"header": "high", "body": "high", "query": "high"},
+        "Public Benefits Information": {"header": "high", "body": "high", "query": "high"},
+        "Property Ownership Information": {"header": "high", "body": "high", "query": "high"},
+        "Government Assistance Program Participation": {"header": "high", "body": "high", "query": "high"},
+        "Military Service Records": {"header": "high", "body": "high", "query": "high"},
+        "Public Official Records": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "high", "body": "high", "query": "high"},
+        "Beneficiary Information": {"header": "high", "body": "high", "query": "high"},
+        "Publicly Available Information (e.g., government websites, public records)": {"header": "high", "body": "high", "query": "high"},
+        "Certificate number": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+    
+},{
+    "label":"fashion",
+    "list":[
+        "Payment Information (e.g., credit card details)",
+        "Purchase History",
+        "Size and Fit Preferences",
+        "Style Preferences",
+        "Fashion Subscription Information",
+        "Customer Loyalty Program Information",
+        "Social Media Account Information",
+        "Online Account Information",
+        "Feedback and Reviews",
+        "Customer Service Interactions",
+        "Device Information (e.g., for compatibility)",
+        "Geolocation Data (e.g., for local store recommendations)",
+        "Demographic Information"
+    ],
+    "pii_level" : {
+        "Payment Information (e.g., credit card details)": {"header": "high", "body": "high", "query": "high"},
+        "Purchase History": {"header": "high", "body": "high", "query": "high"},
+        "Size and Fit Preferences": {"header": "high", "body": "high", "query": "high"},
+        "Style Preferences": {"header": "high", "body": "high", "query": "high"},
+        "Fashion Subscription Information": {"header": "high", "body": "high", "query": "high"},
+        "Customer Loyalty Program Information": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Online Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Device Information (e.g., for compatibility)": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for local store recommendations)": {"header": "high", "body": "high", "query": "high"},
+        "Demographic Information": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+    
+},{
+    "label":"logistics",
+    "list":[
+      "Driver's License Number",
+    "Vehicle Information (e.g., license plate number, VIN)",
+    "Delivery Address",
+    "Shipping Information",
+    "Order History",
+    "Payment Information",
+    "Package Tracking Information",
+    "Warehouse Inventory Records",
+    "Logistics Personnel Information",
+    "Customer Service Interactions",
+    "Feedback and Reviews",
+    "Geolocation Data (e.g., for delivery tracking)",
+    "Employee Identification Number",
+    "Training Records",
+    "Emergency Contact Information"
+    ]
+    
+    ,"pii_level" : {
+        "Driver's License Number": {"header": "high", "body": "high", "query": "high"},
+        "Vehicle Information (e.g., license plate number, VIN)": {"header": "high", "body": "high", "query": "high"},
+        "Delivery Address": {"header": "high", "body": "high", "query": "high"},
+        "Shipping Information": {"header": "high", "body": "high", "query": "high"},
+        "Order History": {"header": "high", "body": "high", "query": "high"},
+        "Payment Information": {"header": "high", "body": "high", "query": "high"},
+        "Package Tracking Information": {"header": "high", "body": "high", "query": "high"},
+        "Warehouse Inventory Records": {"header": "high", "body": "high", "query": "high"},
+        "Logistics Personnel Information": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for delivery tracking)": {"header": "high", "body": "high", "query": "high"},
+        "Employee Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Training Records": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+},{
+    "label":"tourism",
+    "list":[
+        "National Identification Number",
+        "Travel Itinerary",
+        "Flight Booking Information",
+        "Hotel Reservation Information",
+        "Rental Car Reservation Information",
+        "Travel Insurance Information",
+        "Payment Information",
+        "Tour Participation Information",
+        "Preferences (e.g., destination preferences, activity preferences)",
+        "Customer Loyalty Program Information",
+        "Feedback and Reviews",
+        "Customer Service Interactions",
+        "Emergency Contact Information",
+        "Geolocation Data (e.g., for location-based recommendations)",
+        "Demographic Information"
+    ]
+    ,
+    "pii_level" : {
+        "National Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Travel Itinerary": {"header": "high", "body": "high", "query": "high"},
+        "Flight Booking Information": {"header": "high", "body": "high", "query": "high"},
+        "Hotel Reservation Information": {"header": "high", "body": "high", "query": "high"},
+        "Rental Car Reservation Information": {"header": "high", "body": "high", "query": "high"},
+        "Travel Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Payment Information": {"header": "high", "body": "high", "query": "high"},
+        "Tour Participation Information": {"header": "high", "body": "high", "query": "high"},
+        "Preferences (e.g., destination preferences, activity preferences)": {"header": "high", "body": "high", "query": "high"},
+        "Customer Loyalty Program Information": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for location-based recommendations)": {"header": "high", "body": "high", "query": "high"},
+        "Demographic Information": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+    
+},{
+    "label":"sports",
+    "list":[
+    "Player Identification Information (e.g., jersey number, position)",
+    "Player Performance Data",
+    "Ticket Purchase Information",
+    "Season Ticket Holder Information",
+    "Membership Information (e.g., fan clubs)",
+    "Merchandise Purchase History",
+    "Social Media Account Information",
+    "Online Account Information (e.g., for streaming services or fantasy sports platforms)",
+    "Feedback and Reviews",
+    "Customer Service Interactions",
+    "Geolocation Data (e.g., for location-based promotions or event attendance)",
+    "Demographic Information"
+    ]
+    ,
+    "pii_level" : {
+        "Player Identification Information (e.g., jersey number, position)": {"header": "high", "body": "high", "query": "high"},
+        "Player Performance Data": {"header": "high", "body": "high", "query": "high"},
+        "Ticket Purchase Information": {"header": "high", "body": "high", "query": "high"},
+        "Season Ticket Holder Information": {"header": "high", "body": "high", "query": "high"},
+        "Membership Information (e.g., fan clubs)": {"header": "high", "body": "high", "query": "high"},
+        "Merchandise Purchase History": {"header": "high", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Online Account Information (e.g., for streaming services or fantasy sports platforms)": {"header": "high", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "high", "body": "high", "query": "high"},
+        "Geolocation Data (e.g., for location-based promotions or event attendance)": {"header": "high", "body": "high", "query": "high"},
+        "Demographic Information": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+},
+{
+    "label":"human resources",
+    "list":[
+       "Passport Number",
+    "National Identification Number",
+    "Employment History",
+    "Salary Information",
+    "Bank Account Information",
+    "Tax Information",
+    "Benefits Enrollment Information",
+    "Health Insurance Information",
+    "Employee Performance Reviews",
+    "Training Records",
+    "Attendance Records",
+    "Leave Requests",
+    "Disciplinary Records",
+    "Employment Contracts",
+    "Emergency Contact Information",
+    "Ethnicity/Race Information (if collected for diversity reporting)"
+    ]
+    ,
+    "pii_level" : {
+        "Passport Number": {"header": "high", "body": "high", "query": "high"},
+        "National Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Employment History": {"header": "high", "body": "high", "query": "high"},
+        "Salary Information": {"header": "high", "body": "high", "query": "high"},
+        "Bank Account Information": {"header": "high", "body": "high", "query": "high"},
+        "Tax Information": {"header": "high", "body": "high", "query": "high"},
+        "Benefits Enrollment Information": {"header": "high", "body": "high", "query": "high"},
+        "Health Insurance Information": {"header": "high", "body": "high", "query": "high"},
+        "Employee Performance Reviews": {"header": "high", "body": "high", "query": "high"},
+        "Training Records": {"header": "high", "body": "high", "query": "high"},
+        "Attendance Records": {"header": "high", "body": "high", "query": "high"},
+        "Leave Requests": {"header": "high", "body": "high", "query": "high"},
+        "Disciplinary Records": {"header": "high", "body": "high", "query": "high"},
+        "Employment Contracts": {"header": "high", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "high", "body": "high", "query": "high"},
+        "Ethnicity/Race Information (if collected for diversity reporting)": {"header": "high", "body": "high", "query": "high"},
+        "Gender Information (if collected for diversity reporting)": {"header": "high", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+},{
+    "label":"marketing",
+    "list":[
+        "Occupation",
+        "Income Level",
+        "Education Level",
+        "Interests",
+        "Purchase History",
+        "Website Usage Data",
+        "Social Media Account Information",
+        "Online Account Information",
+        "Geolocation Data",
+        "Device Information",
+        "IP Address",
+        "Cookies and Tracking Data",
+        "Feedback and Reviews",
+        "Customer Service Interactions"
+    ]
+    
+    ,
+    "Marketing" : {
+        "Occupation": {"header": "low", "body": "medium", "query": "high"},
+        "Income Level": {"header": "low", "body": "medium", "query": "high"},
+        "Education Level": {"header": "low", "body": "medium", "query": "high"},
+        "Interests": {"header": "low", "body": "medium", "query": "high"},
+        "Purchase History": {"header": "medium", "body": "high", "query": "high"},
+        "Website Usage Data": {"header": "medium", "body": "high", "query": "high"},
+        "Social Media Account Information": {"header": "medium", "body": "high", "query": "high"},
+        "Online Account Information": {"header": "medium", "body": "high", "query": "high"},
+        "Geolocation Data": {"header": "medium", "body": "high", "query": "high"},
+        "Device Information": {"header": "medium", "body": "high", "query": "high"},
+        "IP Address": {"header": "medium", "body": "high", "query": "high"},
+        "Cookies and Tracking Data": {"header": "medium", "body": "high", "query": "high"},
+        "Feedback and Reviews": {"header": "medium", "body": "high", "query": "high"},
+        "Customer Service Interactions": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+    
+    
+},
+
+{
+    "label":"general",
+    "list":[
+        "Full Name",
+        "Address",
+        "Phone Numbers",
+        "Email Addresses",
+        "Date of Birth",
+        "Social Security Number (SSN)",
+        "Driver's License Number",
+        "Passport Number",
+        "Employment Information",
+        "Financial Information",
+        "Bank Account Numbers",
+        "Credit Card Numbers",
+        "Tax Identification Number",
+        "Health Information",
+        "Insurance Policy Numbers",
+        "Emergency Contact Information",
+        "Geolocation Data",
+        "Communication Records"
+    ]
+    ,"pii_level" : {
+        "Full Name": {"header": "low", "body": "medium", "query": "high"},
+        "Address": {"header": "low", "body": "medium", "query": "high"},
+        "Phone Numbers": {"header": "low", "body": "medium", "query": "high"},
+        "Email Addresses": {"header": "low", "body": "medium", "query": "high"},
+        "Date of Birth": {"header": "low", "body": "medium", "query": "high"},
+        "Social Security Number (SSN)": {"header": "medium", "body": "high", "query": "high"},
+        "Driver's License Number": {"header": "medium", "body": "high", "query": "high"},
+        "Passport Number": {"header": "medium", "body": "high", "query": "high"},
+        "Employment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Financial Information": {"header": "medium", "body": "high", "query": "high"},
+        "Bank Account Numbers": {"header": "medium", "body": "high", "query": "high"},
+        "Credit Card Numbers": {"header": "medium", "body": "high", "query": "high"},
+        "Tax Identification Number": {"header": "medium", "body": "high", "query": "high"},
+        "Health Information": {"header": "medium", "body": "high", "query": "high"},
+        "Insurance Policy Numbers": {"header": "medium", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+        "Geolocation Data": {"header": "medium", "body": "high", "query": "high"},
+        "Communication Records": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+},
+{
+    "label":"private",
+    "list":[
+        "Full Name",
+    "Address",
+    "Phone Numbers",
+    "Email Addresses",
+    "Date of Birth",
+    "Social Security Number (SSN)",
+    "Driver's License Number",
+    "Passport Number",
+    "Bank Account Numbers",
+    "Credit Card Numbers",
+    "Tax Identification Number",
+    "Health Information",
+    "Insurance Policy Numbers",
+    "Emergency Contact Information"
+    ]
+    ,
+    "pii_level" : {
+        "Full Name": {"header": "low", "body": "medium", "query": "high"},
+        "Address": {"header": "low", "body": "medium", "query": "high"},
+        "Phone Numbers": {"header": "low", "body": "medium", "query": "high"},
+        "Email Addresses": {"header": "low", "body": "medium", "query": "high"},
+        "Date of Birth": {"header": "low", "body": "medium", "query": "high"},
+        "Social Security Number (SSN)": {"header": "medium", "body": "high", "query": "high"},
+        "Driver's License Number": {"header": "medium", "body": "high", "query": "high"},
+        "Passport Number": {"header": "medium", "body": "high", "query": "high"},
+        "Bank Account Numbers": {"header": "medium", "body": "high", "query": "high"},
+        "Credit Card Numbers": {"header": "medium", "body": "high", "query": "high"},
+        "Tax Identification Number": {"header": "medium", "body": "high", "query": "high"},
+        "Health Information": {"header": "medium", "body": "high", "query": "high"},
+        "Insurance Policy Numbers": {"header": "medium", "body": "high", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"}
+    }
+    
+    
+    
+    
+},
+{
+    "label":"travel",
+    "list":[
+     "National Identification Number",
+    "Travel Itinerary",
+    "Flight Booking Information",
+    "Hotel Reservation Information",
+    "Rental Car Reservation Information",
+    "Travel Insurance Information",
+    "Payment Information",
+    "Tour Participation Information",
+    "Preferences (e.g., destination preferences, activity preferences)",
+    "Customer Loyalty Program Information",
+    "Feedback and Reviews",
+    "Customer Service Interactions",
+    "Emergency Contact Information",
+    "Geolocation Data (e.g., for location-based recommendations)",
+    "Demographic Information"
+    ]
+    
+    ,
+    "pii_level" : {
+        "National Identification Number": {"header": "medium", "body": "high", "query": "high"},
+        "Travel Itinerary": {"header": "low", "body": "medium", "query": "high"},
+        "Flight Booking Information": {"header": "low", "body": "medium", "query": "high"},
+        "Hotel Reservation Information": {"header": "low", "body": "medium", "query": "high"},
+        "Rental Car Reservation Information": {"header": "low", "body": "medium", "query": "high"},
+        "Travel Insurance Information": {"header": "low", "body": "medium", "query": "high"},
+        "Payment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Tour Participation Information": {"header": "low", "body": "medium", "query": "high"},
+        "Preferences": {"header": "low", "body": "medium", "query": "high"},
+        "Customer Loyalty Program Information": {"header": "low", "body": "medium", "query": "high"},
+        "Feedback and Reviews": {"header": "low", "body": "medium", "query": "high"},
+        "Customer Service Interactions": {"header": "low", "body": "medium", "query": "high"},
+        "Emergency Contact Information": {"header": "medium", "body": "high", "query": "high"},
+        "Geolocation Data": {"header": "low", "body": "medium", "query": "high"},
+        "Demographic Information": {"header": "low", "body": "medium", "query": "high"}
+    }
+    
+    
+    
+},
+{
+    "label":"mining",
+    "list":[
+        "Social Security Number (SSN)",
+        "Driver's License Number",
+        "Passport Number",
+        "National Identification Number",
+        "Employment Information",
+        "Health and Safety Training Records",
+        "Accident Reports",
+        "Work History",
+        "Emergency Contact Information",
+        "Equipment Operator Identification",
+        "Environmental Impact Assessment Data",
+        "Community Engagement Records",
+        "Supplier Information",
+        "Contractual Agreements",
+        "Financial Information",
+        "Training Records",
+        "Waste Management Records"
+    ]
+    ,
+    "pii_level" : {
+        "Social Security Number (SSN)": {"header": "high", "body": "high", "query": "high"},
+        "Driver's License Number": {"header": "high", "body": "high", "query": "high"},
+        "Passport Number": {"header": "high", "body": "high", "query": "high"},
+        "National Identification Number": {"header": "high", "body": "high", "query": "high"},
+        "Employment Information": {"header": "medium", "body": "high", "query": "high"},
+        "Health and Safety Training Records": {"header": "low", "body": "medium", "query": "medium"},
+        "Accident Reports": {"header": "medium", "body": "high", "query": "high"},
+        "Work History": {"header": "medium", "body": "medium", "query": "medium"},
+        "Emergency Contact Information": {"header": "medium", "body": "medium", "query": "medium"},
+        "Equipment Operator Identification": {"header": "medium", "body": "medium", "query": "medium"},
+        "Environmental Impact Assessment Data": {"header": "high", "body": "high", "query": "high"},
+        "Community Engagement Records": {"header": "medium", "body": "medium", "query": "medium"},
+        "Supplier Information": {"header": "medium", "body": "medium", "query": "medium"},
+        "Contractual Agreements": {"header": "medium", "body": "medium", "query": "medium"},
+        "Financial Information": {"header": "medium", "body": "medium", "query": "medium"},
+        "Training Records": {"header": "medium", "body": "medium", "query": "medium"},
+        "Waste Management Records": {"header": "medium", "body": "medium", "query": "medium"}
+    }
+    
+    
+    
+    
+    
+}
+]
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
